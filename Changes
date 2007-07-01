@@ -1,5 +1,11 @@
 Revision history for Lingua-Flags
 
+0.03    2007,  1 July (20:18)
+		Added Esperanto Flag (thanks to Ricardo Signes)
+
+0.02    2007, 30 June (11:46)
+		Upload failed for version 0.01
+
 0.01    2007, 30 June (11:45)
         First version with 'as_gif' and 'as_html_img'
 

@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Lingua-Flags
-version:             0.02
+version:             0.03
 abstract:            Provide small flag icons
 license:             ~
 generated_by:        ExtUtils::MakeMaker version 6.32
