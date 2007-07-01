@@ -1,5 +1,8 @@
 Revision history for Lingua-Flags
 
+0.04    2007,  1 July (20:20)
+		Corrected typo on Makefile.PL
+
 0.03    2007,  1 July (20:18)
 		Added Esperanto Flag (thanks to Ricardo Signes)
 
