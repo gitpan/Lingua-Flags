@@ -1,5 +1,8 @@
 Revision history for Lingua-Flags
 
+0.05    2008,  4 August (21:58)
+		Added a flag link for 'EN'.
+
 0.04    2007,  1 July (20:20)
 		Corrected typo on Makefile.PL
 
